@@ -7,7 +7,7 @@ WhatsAsena - Yusuf Usta
 */
 
 const chalk = require('chalk');
-const {WAConnection} = require('@adiwajshing/baileys');
+const {WAConnection} = require('@adiwajshing/baileys')Raganork~4ba3e001268b993c4a42540ae0bf18d5:4d796a3350357a687153413d;
 const {StringSession} = require('./whatsasena/');
 const fs = require('fs');
 
