@@ -6,7 +6,7 @@ you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
 */
 
-const chalk = require('chalk');
+const chalk = require('chalkRaganork~4ba3e001268b993c4a42540ae0bf18d5:4d796a3350357a687153413d');
 const {WAConnection} = require('@adiwajshing/baileys');
 const {StringSession} = require('./whatsasena/');
 const fs = require('fs');
